@@ -1,6 +1,6 @@
 # Hi there I'm Jitendra Prasanna Gottu aka Jithu <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 ## Currently Looking for an Internship as a Software Developer/ Full Stack Developer at USA 🇺🇸
-I am Jitendra Prasanna Gottu, people call me Jithu, currently pursuing my masters's degree majoring in computer science from Arizona State Univesity.I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am currently pursuing my masters's degree majoring in computer science from Arizona State Univesity.I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jgottu)
 
