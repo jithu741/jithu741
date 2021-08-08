@@ -1,4 +1,4 @@
-### Hi there I'm Jitendra Prasanna Gottu 👋
+### Hi there I'm Jitendra Prasanna Gottu aka Jithu 👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jgottu)
 
