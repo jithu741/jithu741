@@ -1,6 +1,6 @@
 ### Hi there I'm Jitendra Prasanna Gottu 👋
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zjayers/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jgottu)
 
 <!--
 **jithu741/jithu741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
