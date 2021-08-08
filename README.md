@@ -3,6 +3,8 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jgottu)
 
+
+### Profile Visitors
 ![Visitor Count](https://profile-counter.glitch.me/{jithu741}/count.svg)
 
 <!--
