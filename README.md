@@ -1,4 +1,5 @@
 ### Hi there I'm Jitendra Prasanna Gottu aka Jithu 👋
+## Currently Looking for an Internship as a Software Developer/ Full Stack Developer at USA 🇺🇸
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jgottu)
 
