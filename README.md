@@ -1,4 +1,4 @@
-# Hi there I'm Jitendra Prasanna Gottu aka Jithu 👋
+# Hi there I'm Jitendra Prasanna Gottu aka Jithu <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 ### Currently Looking for an Internship as a Software Developer/ Full Stack Developer at USA 🇺🇸
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jgottu)
